@@ -5,7 +5,7 @@ I bridge the gap between theoretical AI models and real-time hardware constraint
 
 * 🔭 **Currently working on:** Real-time Gunshot Detection System (Edge-to-Cloud Pipeline)
 * 🔬 **Research Interests:** On-device Inference, Latency Optimization, Reliability Engineering
-* 💼 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamin-choi-research) (여기에 본인 LinkedIn URL 넣으세요)
+* 💼 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamin-choi-249723335/)
 
 ### 🛠 Tech Stack
 * **Languages:** C++ (JNI/DSP), Python, Kotlin, Assembly (MIPS)
