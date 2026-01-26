@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋 I'm Hamin Choi
+**Systems ML Researcher & Senior Research Assistant @ AIS Lab**
 
-<!--
-**Nyxilian/Nyxilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between theoretical AI models and real-time hardware constraints. My research focuses on building fault-tolerant acoustic perception systems using **C++, DSP, and Edge Computing**.
 
-Here are some ideas to get you started:
+* 🔭 **Currently working on:** Real-time Gunshot Detection System (Edge-to-Cloud Pipeline)
+* 🔬 **Research Interests:** On-device Inference, Latency Optimization, Reliability Engineering
+* 💼 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamin-choi-research) (여기에 본인 LinkedIn URL 넣으세요)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Languages:** C++ (JNI/DSP), Python, Kotlin, Assembly (MIPS)
+* **AI & Data:** PyTorch, NumPy, Pandas, Edge AI
+* **Infrastructure:** RabbitMQ, Docker, Nginx, Linux
