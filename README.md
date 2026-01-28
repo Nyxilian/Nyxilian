@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Hamin Choi
-**Systems ML Researcher & Senior Research Assistant @ AIS Lab**
+### Hi there 👋
+**Undergraduate Research Assistant @ AIS Lab**
 
 I bridge the gap between theoretical AI models and real-time hardware constraints. My research focuses on building fault-tolerant acoustic perception systems using **C++, DSP, and Edge Computing**.
 
